@@ -1,4 +1,14 @@
-# Codiad Web IDE
+# Codiad Web IDE - Staticified Fork
+
+## About This Fork
+
+Goals:
+
+* No `php`, just `html`
+* Compatible with original plugins
+* Easy to add dynamic content with AJAX
+
+## About Codiad
 
 Codiad is a web-based IDE framework with a small footprint and minimal requirements. The system is still early in development, and while it has been proven extremely stable please be sure have a backup system if you use it in any production work.
 
